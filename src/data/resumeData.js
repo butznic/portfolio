@@ -102,6 +102,26 @@ export const RESUME_DATA = {
 
   projects: [
     {
+      id: "redpower-website",
+      title: "Red Power Website",
+      category: "Website",
+      client: "Red Power Corporation",
+      summary: "Red Power Corp. is providing electrical services all over the Philippines",
+      details: "Red Power Corporation needs a professional website to prove its legitimacy and for marketing. They showcase their latest and archived projects on this website. ",
+      tech: ["PHP", "WordPress", "Elementor", "Astra", "CSS3","SEO"],
+      highlights: ["Clear Value Proposition", "Mobile Responsiveness","Strong Calls to Action ","Intuitive Navigation","Search Engine Optimation"]
+    },
+    {
+      id: "ahtspl-website",
+      title: "AHTSPL Website",
+      category: "Website",
+      client: "ASIA HAZSAFE TECHNICAL SERVICES (AHTS) PTE LTD",
+      summary: "AHTS is a company located at singapore.",
+      details: "The company website is built in Joomla CMS. They need a company website to promote their services in Singapore and other neighboring countries.",
+      tech: ["Joomla", "CSS" ,"SEO"],
+      highlights: ["Clear Value Proposition", "Mobile Responsiveness","Strong Calls to Action ","Intuitive Navigation","Search Engine Optimation"]
+    },
+    {
       id: "project-inventory",
       title: "Web-Based IT Inventory System",
       category: "Web Applications",
